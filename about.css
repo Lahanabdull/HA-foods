@@ -1,0 +1,21 @@
+body{
+    background-color: brown;
+}
+header{
+    background-color: antiquewhite;
+}
+h4{
+    color: antiquewhite;
+    margin-left: 20px;
+}
+p{
+    color: antiquewhite;
+    margin-left: 20px;
+}
+img{
+    height: 280px;
+    width: 280px;
+    margin-left: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
