@@ -1,8 +1,10 @@
 body{
     background-color: brown;
 }
-header{
+nav{
     background-color: antiquewhite;
+    justify-content: center;
+    align-items: center;
 }
 h4{
     color: antiquewhite;
